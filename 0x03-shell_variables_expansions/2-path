@@ -1,0 +1,2 @@
+#!/bin/bash
+expoth PATH=$PATH:/action
